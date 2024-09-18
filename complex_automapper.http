@@ -1,0 +1,6 @@
+@complex_automapper_HostAddress = http://localhost:5069
+
+GET {{complex_automapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
